@@ -1,0 +1,11 @@
+/Users/Sophia/untitled folder/Lab3Facade/ComputerLib/bin/Debug/net10.0/ComputerLib.deps.json
+/Users/Sophia/untitled folder/Lab3Facade/ComputerLib/bin/Debug/net10.0/ComputerLib.dll
+/Users/Sophia/untitled folder/Lab3Facade/ComputerLib/bin/Debug/net10.0/ComputerLib.pdb
+/Users/Sophia/untitled folder/Lab3Facade/ComputerLib/obj/Debug/net10.0/ComputerLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Sophia/untitled folder/Lab3Facade/ComputerLib/obj/Debug/net10.0/ComputerLib.AssemblyInfoInputs.cache
+/Users/Sophia/untitled folder/Lab3Facade/ComputerLib/obj/Debug/net10.0/ComputerLib.AssemblyInfo.cs
+/Users/Sophia/untitled folder/Lab3Facade/ComputerLib/obj/Debug/net10.0/ComputerLib.csproj.CoreCompileInputs.cache
+/Users/Sophia/untitled folder/Lab3Facade/ComputerLib/obj/Debug/net10.0/ComputerLib.dll
+/Users/Sophia/untitled folder/Lab3Facade/ComputerLib/obj/Debug/net10.0/refint/ComputerLib.dll
+/Users/Sophia/untitled folder/Lab3Facade/ComputerLib/obj/Debug/net10.0/ComputerLib.pdb
+/Users/Sophia/untitled folder/Lab3Facade/ComputerLib/obj/Debug/net10.0/ref/ComputerLib.dll

@@ -1,0 +1,11 @@
+/Users/Sophia/untitled folder/Lab1_Vector/VectorLib/bin/Debug/net10.0/VectorLib.deps.json
+/Users/Sophia/untitled folder/Lab1_Vector/VectorLib/bin/Debug/net10.0/VectorLib.dll
+/Users/Sophia/untitled folder/Lab1_Vector/VectorLib/bin/Debug/net10.0/VectorLib.pdb
+/Users/Sophia/untitled folder/Lab1_Vector/VectorLib/obj/Debug/net10.0/VectorLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Sophia/untitled folder/Lab1_Vector/VectorLib/obj/Debug/net10.0/VectorLib.AssemblyInfoInputs.cache
+/Users/Sophia/untitled folder/Lab1_Vector/VectorLib/obj/Debug/net10.0/VectorLib.AssemblyInfo.cs
+/Users/Sophia/untitled folder/Lab1_Vector/VectorLib/obj/Debug/net10.0/VectorLib.csproj.CoreCompileInputs.cache
+/Users/Sophia/untitled folder/Lab1_Vector/VectorLib/obj/Debug/net10.0/VectorLib.dll
+/Users/Sophia/untitled folder/Lab1_Vector/VectorLib/obj/Debug/net10.0/refint/VectorLib.dll
+/Users/Sophia/untitled folder/Lab1_Vector/VectorLib/obj/Debug/net10.0/VectorLib.pdb
+/Users/Sophia/untitled folder/Lab1_Vector/VectorLib/obj/Debug/net10.0/ref/VectorLib.dll

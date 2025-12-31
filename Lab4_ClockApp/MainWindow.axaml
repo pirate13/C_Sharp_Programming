@@ -1,0 +1,14 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:ClockApp"
+        x:Class="ClockApp.MainWindow"
+        Width="420"
+        Height="460"
+        Title="Clock">
+
+  <Grid>
+    <local:ClockControl HorizontalAlignment="Stretch"
+                        VerticalAlignment="Stretch"/>
+  </Grid>
+
+</Window>

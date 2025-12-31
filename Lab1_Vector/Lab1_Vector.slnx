@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="DemoApp/DemoApp.csproj" />
+  <Project Path="VectorLib.Tests/VectorLib.Tests.csproj" />
+  <Project Path="VectorLib/VectorLib.csproj" />
+</Solution>

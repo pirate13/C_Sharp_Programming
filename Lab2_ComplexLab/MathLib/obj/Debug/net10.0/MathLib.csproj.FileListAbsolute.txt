@@ -1,0 +1,11 @@
+/Users/Sophia/untitled folder/ComplexLab/MathLib/bin/Debug/net10.0/MathLib.deps.json
+/Users/Sophia/untitled folder/ComplexLab/MathLib/bin/Debug/net10.0/MathLib.dll
+/Users/Sophia/untitled folder/ComplexLab/MathLib/bin/Debug/net10.0/MathLib.pdb
+/Users/Sophia/untitled folder/ComplexLab/MathLib/obj/Debug/net10.0/MathLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Sophia/untitled folder/ComplexLab/MathLib/obj/Debug/net10.0/MathLib.AssemblyInfoInputs.cache
+/Users/Sophia/untitled folder/ComplexLab/MathLib/obj/Debug/net10.0/MathLib.AssemblyInfo.cs
+/Users/Sophia/untitled folder/ComplexLab/MathLib/obj/Debug/net10.0/MathLib.csproj.CoreCompileInputs.cache
+/Users/Sophia/untitled folder/ComplexLab/MathLib/obj/Debug/net10.0/MathLib.dll
+/Users/Sophia/untitled folder/ComplexLab/MathLib/obj/Debug/net10.0/refint/MathLib.dll
+/Users/Sophia/untitled folder/ComplexLab/MathLib/obj/Debug/net10.0/MathLib.pdb
+/Users/Sophia/untitled folder/ComplexLab/MathLib/obj/Debug/net10.0/ref/MathLib.dll
