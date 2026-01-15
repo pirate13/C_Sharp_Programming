@@ -25,11 +25,9 @@ public sealed class ClockControl : Control
         base.Render(context);
 
         var now = DateTime.Now;
-
-        // фон
+ 
         context.FillRectangle(Brushes.White, new Rect(Bounds.Size));
-
-        // область часов
+ 
         double w = Bounds.Width;
         double h = Bounds.Height;
 
@@ -39,12 +37,10 @@ public sealed class ClockControl : Control
         var rect = new Rect((w - size) / 2, 20, size, size);
         var center = rect.Center;
         double r = size / 2;
-
-        // циферблат
+ 
         var facePen = new Pen(Brushes.Black, 4);
         context.DrawEllipse(null, facePen, center, r, r);
-
-        // деления
+ 
         for (int i = 0; i < 60; i++)
         {
             double angle = (Math.PI * 2 * i / 60.0) - Math.PI / 2;
@@ -57,8 +53,7 @@ public sealed class ClockControl : Control
             var pen = new Pen(Brushes.Black, i % 5 == 0 ? 3 : 1);
             context.DrawLine(pen, p1, p2);
         }
-
-        // углы стрелок
+ 
         double sec = now.Second + now.Millisecond / 1000.0;
         double min = now.Minute + sec / 60.0;
         double hour = (now.Hour % 12) + min / 60.0;
@@ -67,15 +62,12 @@ public sealed class ClockControl : Control
         double minAngle = (Math.PI * 2 * (min / 60.0)) - Math.PI / 2;
         double hourAngle = (Math.PI * 2 * (hour / 12.0)) - Math.PI / 2;
 
-        // стрелки
         DrawHand(context, center, r * 0.55, hourAngle, Brushes.Black, 6);
         DrawHand(context, center, r * 0.75, minAngle, Brushes.Black, 4);
         DrawHand(context, center, r * 0.85, secAngle, Brushes.Red, 2);
-
-        // центр
+ 
         context.DrawEllipse(Brushes.Black, null, center, 5, 5);
-
-        // цифровое время
+ 
         var timeText = now.ToString("HH:mm:ss");
         var ft = new FormattedText(
             timeText,
